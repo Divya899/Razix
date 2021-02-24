@@ -1,9 +1,9 @@
 #pragma once
 
 #include "Razix/Window.h"
-#include "Razix/Renderer/GraphicsContext.h"
+#include "Razix/API/Renderer/GraphicsContext.h"
 
-#include <GLFW/glfw3.h> // Ehh I don't want this here
+#include <GLFW/glfw3.h> // Ehh... I don't want this here
 
 namespace Razix
 {
