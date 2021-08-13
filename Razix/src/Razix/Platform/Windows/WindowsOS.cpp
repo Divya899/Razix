@@ -5,8 +5,8 @@
 
 #include "Razix/Core/OS/Window.h"
 #ifdef RAZIX_USE_GLFW_WINDOWS
-#include "Razix/Platform/OpenGL/GLFWWindow.h"
-#include "Razix/Platform/OpenGL/GLFWInput.h"
+#include "Razix/Platform/GLFW/GLFWWindow.h"
+#include "Razix/Platform/GLFW/GLFWInput.h"
 #else
 #include "Razix/Platform/Windows/WindowsWindow.h"
 #include "Razix/Platform/OpenGL/WindowsInput.h"
@@ -35,5 +35,4 @@ namespace Razix
 		// Application auto Initialization by the Engine
 		Razix::Application::GetApplication().Run();
 	}
-
 }

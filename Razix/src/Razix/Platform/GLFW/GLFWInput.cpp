@@ -5,7 +5,7 @@
 #include <GLFW/glfw3.h>
 
 #ifdef RAZIX_RENDER_API_OPENGL
-#include "Razix/Platform/OpenGL/GLFWInput.h"
+#include "Razix/Platform/GLFW/GLFWInput.h"
 #endif // RAZIX_RENDER_API_OPENGL
 
 namespace Razix
