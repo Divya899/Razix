@@ -2,12 +2,11 @@
 <img width=200" align="left" src="https://github.com/Pikachuxxxx/Razix/blob/master/Branding/RazixLogo.png"> <h1> Razix Engine </h1>
 Razix is a High Performance Research Engine for production pipeline with emphasis on experimenting with different rendering techniques. Razix supports Windows, Mac, Linux, PSVita, PS3 and PS4 systems.
 
- ---
+|:warning: WARNING:Currently Razix is WIP and the renderer is undergoing major design overhaul hence nothing will make sense |
+| --- |
+#### However the old abstracted renderer (OpenGL + Vulkan) code is still in there (This will be replaced by TriWizard renderer) |
 
- # Currently Razix is WIP and the renderer is undergoing major design overhaul hence nothing will make sense
- ### However the old abstracted renderer (OpenGL + Vulkan) code is still in there (This will be replaced by TriWizard renderer)
-
- ## Screenshots
+## Screenshots
  ![](RazixEditor.png)
 
 # About
